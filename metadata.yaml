@@ -1,11 +1,16 @@
 _repo: The-lucky-little-stiff_73484
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73484-h/images/cover.jpg
 creator:
   author:
     agent_name: Greene, H. P. S.
     gutenberg_agent_id: '57095'
     url: http://www.gutenberg.org/2009/agents/57095
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73484#The-lucky-little-stiff
 gutenberg_issued: '2024-04-28'
 gutenberg_type: Text
 identifiers:
